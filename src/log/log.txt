@@ -1,0 +1,7 @@
+2025-02-19 10:41:05,186 - __main__ - INFO - This is an info message
+2025-02-19 10:41:05,186 - __main__ - DEBUG - This is a debug message
+2025-02-19 10:41:05,187 - __main__ - ERROR - This is an error message
+2025-02-19 10:41:05,187 - __main__ - WARNING - This is a warning message
+2025-02-19 10:41:05,187 - __main__ - CRITICAL - This is a critical message
+2025-02-19 10:41:05,187 - __main__ - ERROR - This is an exception message
+NoneType: None
